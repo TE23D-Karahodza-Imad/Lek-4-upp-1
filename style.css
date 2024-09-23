@@ -1,0 +1,32 @@
+head{
+
+}
+
+body{
+    background-image: url("./img/showcase.jpg");
+}
+h1{
+    color: blue;
+    text-align: center;
+    background-color: yellow;
+}
+h2{
+    text-align: center;
+}
+
+img{
+    width: 150px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    padding: 20px;
+    margin: 30px;
+}
+.bottomContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 30px;
+}
